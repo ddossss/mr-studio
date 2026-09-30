@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch==2.11.0+cu128
+torchaudio==2.11.0+cu128
+torchvision==0.26.0+cu128
+audio-separator==0.47.0
+onnxruntime==1.30.0
+gradio==6.28.0
+soundfile==0.14.0
+audioread==3.1.0
+standard-aifc==3.13.0
+standard-sunau==3.13.0
