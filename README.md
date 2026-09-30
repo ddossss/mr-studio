@@ -50,3 +50,7 @@ NVIDIA GPU 권장 (CPU만 있으면 곡당 수 분). 첫 실행 때 분리 모�
 ## 테스트
 
 `.venv\Scripts\python test_app.py` → `OK`
+
+## Made by
+
+[Perch Creative](https://perch-creative.com) — 웹사이트 · 브랜딩 · 툴 제작
